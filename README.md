@@ -38,3 +38,6 @@ Then run this with the year that you are willing to delete
 ```JS
 deleteDmsByYear('2019');
 ```
+
+# Exemple
+![](usage.gif)
