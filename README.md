@@ -1,4 +1,4 @@
-# Automate deleting twitter direct messages123
+# Automate deleting twitter direct messages1233
 
 This is a simple script that uses jquery to automatizate the process of deleting old DMs from twitter
 
